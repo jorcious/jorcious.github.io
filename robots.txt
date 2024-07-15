@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jorcious.github.io/sitemap
+Sitemap: https://jorcious.github.io/app/sitemap
+Sitemap: https://jorcious.github.io/assets/sitemap
+Sitemap: https://jorcious.github.io/css/sitemap
+Sitemap: https://jorcious.github.io/includes/sitemap
+Sitemap: https://jorcious.github.io/item/sitemap
+Sitemap: https://jorcious.github.io/src/sitemap
